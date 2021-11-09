@@ -1,0 +1,49 @@
+09/11/2021 17:14:17.365 Log started.
+09/11/2021 17:14:17.365 Unprotecting memory region '.text': 0x00001000 (size: 0x00456000)
+09/11/2021 17:14:17.366 Unprotecting memory region '.rdata': 0x00458000 (size: 0x0004C000)
+09/11/2021 17:14:17.366 Unprotecting memory region '.text': 0x008B1000 (size: 0x0064A000)
+09/11/2021 17:14:17.366 Unloading plugins...
+09/11/2021 17:14:17.366 Loading plugin cleo/FileSystemOperations.cleo
+09/11/2021 17:14:17.366 Loading plugin cleo/IniFiles.cleo
+09/11/2021 17:14:17.367 Loading plugin cleo/IntOperations.cleo
+09/11/2021 17:14:17.367 Started on game of version: SA 1.0 us
+09/11/2021 17:14:17.367 Injecting MenuStatusNotifier...
+09/11/2021 17:14:17.367 Replacing call: 0x0057B9FD
+09/11/2021 17:14:17.367 Injecting DmaFix...
+09/11/2021 17:14:17.368 Replacing call: 0x0053E981
+09/11/2021 17:14:17.368 Injecting TextManager...
+09/11/2021 17:14:17.368 Injecting function at: 0x006A0050
+09/11/2021 17:14:17.368 Injecting SoundSystem...
+09/11/2021 17:14:17.368 Replacing call: 0x007487A8
+09/11/2021 17:14:17.368 Injecting CustomOpcodeSystem...
+09/11/2021 17:14:17.368 Injecting ScriptEngine...
+09/11/2021 17:14:17.368 Replacing call: 0x0046A21B
+09/11/2021 17:14:17.368 Replacing call: 0x0058D552
+09/11/2021 17:14:17.368 Replacing call: 0x0058FCE4
+09/11/2021 17:14:17.368 Replacing call: 0x0053BDD7
+09/11/2021 17:14:17.368 Replacing call: 0x005BA340
+09/11/2021 17:14:17.368 Replacing call: 0x005D4FD7
+09/11/2021 17:14:17.368 Replacing call: 0x005D18F0
+09/11/2021 17:14:17.368 Replacing call: 0x005D14D5
+09/11/2021 17:14:17.368 Injecting function at: 0x004667DB
+09/11/2021 17:14:17.681 Creating main window...
+09/11/2021 17:14:17.684 Found sound device 0: No sound
+09/11/2021 17:14:17.684 Found sound device 1 (default): Speakers (Realtek(R) Audio)
+09/11/2021 17:14:17.684 Found sound device 2: Realtek Digital Output (Realtek(R) Audio)
+09/11/2021 17:14:17.684 Found sound device 3: SONY TV (NVIDIA High Definition Audio)
+09/11/2021 17:14:17.684 On system found 4 devices, 4 enabled devices, assuming device to use: 1 (Speakers (Realtek(R) Audio))
+09/11/2021 17:14:17.695 SoundSystem initialized
+09/11/2021 17:14:17.697 Floating-point audio supported!
+09/11/2021 17:14:17.697 Audio hardware acceleration disabled (no EAX)
+09/11/2021 17:14:29.993 Scripts exclusively initialized
+09/11/2021 17:14:29.995 Deleting dynamic fxts...
+09/11/2021 17:14:29.995 Cleaning up script data... 0 files, 0 libs, 0 file scans, 0 allocations...
+09/11/2021 17:14:29.995 Searching for cleo scripts
+09/11/2021 17:14:29.996 Loading custom script ChaiRage.cs...
+09/11/2021 17:14:29.996 Registering custom script named ChaiRag
+09/11/2021 17:14:29.996 Loading custom script Radar Zoom Fix.cs...
+09/11/2021 17:14:29.996 Registering custom script named Radar Z
+09/11/2021 17:14:29.996 Loading custom script SensitivityFix.cs...
+09/11/2021 17:14:29.996 Registering custom script named Sensiti
+09/11/2021 17:14:29.996 Loading custom script ..\modloader\car lights\cleo\head.cs...
+09/11/2021 17:14:29.997 Registering custom script named head.cs
